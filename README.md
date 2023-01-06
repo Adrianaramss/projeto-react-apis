@@ -11,15 +11,15 @@ Este projeto terá como fonte de dados para a sua criação a [Poke Api](https:/
 - Detalhe de cada  pokemon.
   
 # Imagem do Site
-página Inicial
+- Página Inicial
 
   ![Captura de tela 2023-01-06 124500](https://user-images.githubusercontent.com/111310311/211048343-48eb112b-3908-49bf-8513-fcaa832a69ec.png)
 
-página Pokedex
+- Página Pokedex
 
 ![Captura de tela 2023-01-06 124629](https://user-images.githubusercontent.com/111310311/211048472-fb02e70d-2e82-4890-86a6-45dffbe71978.png)
 
-página Detalhes
+- Página Detalhes
 
   ![Captura de tela 2023-01-06 124814](https://user-images.githubusercontent.com/111310311/211048658-98a98e7e-5f23-412a-99c9-76a422e6d3d7.png)
 
