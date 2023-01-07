@@ -1,5 +1,7 @@
 
-# Projeto Pokemon
+# Projeto Pokemon <a href="https://emoji.gg/emoji/7766-blobpokemon"><img src="https://cdn3.emoji.gg/emojis/7766-blobpokemon.gif" width="64px" height="64px" alt="blobpokemon"></a> 
+
+
 
 O Projeto  é um site de pokémons que possui três páginas: Home, Pokedex e Detalhes. O projeto está subdivido em temas de acordo com os conteúdos que estudado durante o Módulo 2 - Frontend.
 
